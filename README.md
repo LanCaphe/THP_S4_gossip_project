@@ -1,25 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+  Le projet était de créer une fake data base pour un site internet de gossip...
 
-Things you may want to cover:
+  La majeure partie des migrates et des models a été créés cependant pas moyen de trouver comment contourner l'erreur qui s'affiche 
+en raison de l'affichage de la date dans deux Classes private message et Gossip...
 
-* Ruby version
+Impossible de faire rails db:migrate...
 
-* System dependencies
+  Mais l'intention y été
+  
+  Projet de THP lille Session 5
+  Maxime et Manon
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # THP_S4_gossip_project
