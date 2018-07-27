@@ -4,7 +4,7 @@ class CreateGossips < ActiveRecord::Migration[5.2]
     create_table :gossips do |t|
     t.string :titre
     t.text :content
-    t.timestamps :date
-    end
+    t.timestamps 
+	end
   end
 end
